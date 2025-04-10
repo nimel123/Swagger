@@ -8,7 +8,7 @@
       },
       "servers": [
         {
-          "url": "http://localhost:9000"
+          "url": "https://swagger-wahn.onrender.com"
         }
       ]
     },
